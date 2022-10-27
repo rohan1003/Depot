@@ -23,3 +23,12 @@ Product.create!(title: 'Build Chatbot Interactions',
       </p>},
   image_url: 'dpchat.jpg',
 price: 20.00)
+
+Product.create!(title: 'New Sim Card',
+  description:
+    %{<p>
+      <em>Responsive, Intuitive Interfaces with Ruby</em>
+      We manufacture a new sim card for our clients.
+      </p>},
+  image_url: ,
+price: 30.00)
