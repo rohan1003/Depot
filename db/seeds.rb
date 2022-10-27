@@ -30,5 +30,5 @@ Product.create!(title: 'New Sim Card',
       <em>Responsive, Intuitive Interfaces with Ruby</em>
       We manufacture a new sim card for our clients.
       </p>},
-  image_url: ,
+  image_url: 'dpchat2.jpg',
 price: 30.00)
